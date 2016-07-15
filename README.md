@@ -1,2 +1,2 @@
 # studentlist
-A list of students
+Assignment 1: Add your name to this list
